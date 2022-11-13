@@ -1,2 +1,2 @@
-# Resolusi_2023
+# Resolusi 2023
 Repository untuk menyimpan resolusi tahun 2023.
